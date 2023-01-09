@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi! I'm Adrian Radice 👋🏼👨🏻‍💻
 
-<!--
-**adrianRadice/adrianRadice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-radiceadriann@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radiceadriann@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-adrian--radice-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-radice/ "Connect on LinkedIn")
 
-Here are some ideas to get you started:
+I'm passionate developer having an experience of web / mobile, cloud systems and blockchain development on Ethereum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- Visit [My portfolio](https://adrianradice.github.io/nextjs-cv)
+- Read [My resume CV](https://drive.google.com/file/d/12_IS4Bd-VGF6B7CPqCbhknKmXT9HnYEJ/view)
+
+[![Profile last updated](https://img.shields.io/github/last-commit/adrianRadice/adrianRadice/main?label=Last%20updated&style=flat)](https://github.com/adrianRadice/adrianRadice/commits)
+<img src="https://visitor-badge.glitch.me/badge?page_id=adrianRadice" alt="visitor badge"/>
