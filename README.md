@@ -7,7 +7,7 @@ I'm passionate developer having an experience of web / mobile, cloud systems and
 
 ### About me
 
-- Visit [My portfolio](https://adrianradice.github.io/nextjs-cv)
+- Visit [My portfolio](https://adrianradice.github.io/adrianRadice)
 - Read [My resume CV](https://drive.google.com/file/d/12_IS4Bd-VGF6B7CPqCbhknKmXT9HnYEJ/view)
 
 [![Profile last updated](https://img.shields.io/github/last-commit/adrianRadice/adrianRadice/main?label=Last%20updated&style=flat)](https://github.com/adrianRadice/adrianRadice/commits)
